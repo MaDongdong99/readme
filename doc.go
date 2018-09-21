@@ -1,6 +1,6 @@
 /*
 package main
-blabla
+	blabla
 	blala
 	lalaba
  */
