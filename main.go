@@ -1,10 +1,10 @@
 package main
 
-import(
+import (
 	"github.com/MaDongdong99/readme/lonely"
 )
 
-func main(){
+func main() {
 
 	lonely.Lonely()
 }

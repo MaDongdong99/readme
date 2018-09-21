@@ -1,6 +1,6 @@
 package lonely
 
-import(
+import (
 	"testing"
 )
 
