@@ -1,0 +1,8 @@
+dist: trusty
+sudo: required
+
+language: go
+go:
+  - 1.9.1
+
+go_import_path: github.com/MaDongdong99/readme
